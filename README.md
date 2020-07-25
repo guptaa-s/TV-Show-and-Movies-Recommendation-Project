@@ -19,6 +19,8 @@ When plotted on a multi-dimensional space, where each dimension corresponds to a
 To calculate similarity using angle, you need a function that returns a higher similarity or smaller distance for a lower angle and a lower similarity or larger distance for a higher angle.
 The cosine of an angle is a function that decreases from 1 to -1 as the angle increases from 0 to 180.
 The cosine similarity is advantageous because even if the two similar combined features are far apart by the Euclidean distance because of the size, they could still have a smaller angle between them. Smaller the angle, higher the similarity.
+
+
 ![EucledianV/sCosine](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeK7heh9NBZuFYSq-6oGuV9QIkWkdrhNmMyQ&usqp=CAU)
 
 
