@@ -6,7 +6,8 @@
 ![Content-Based Filtereing](https://miro.medium.com/max/625/1*BME1JjIlBEAI9BV5pOO5Mg.png)
 
 
-This Project uses cosine-similarity to recommend movies and tv-shows to the user.
+This Project uses cosine-similarity to recommend movies and tv-shows to the user.The dataset is picked up from he official IMDB data present in the link https://datasets.imdbws.com/.
+This link(https://www.imdb.com/interfaces/) contains all the information regarding the datasets present.
 
 ![Cosine Based-Similarity](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d94e5903f7936d3c131e040ef2c51b473dd071d)
 ![Cosine Based-Similarity](https://www.oreilly.com/library/view/statistics-for-machine/9781788295758/assets/2b4a7a82-ad4c-4b2a-b808-e423a334de6f.png)
