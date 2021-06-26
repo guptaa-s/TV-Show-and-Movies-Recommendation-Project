@@ -11,7 +11,6 @@ This link(https://www.imdb.com/interfaces/) contains all the information regardi
 The data is analyzed and cleaned the dataframe.
 After pre-processing, the data is then stored in MongoDB after which recommendation is made based on user's choice.
 
-
 ![Cosine Based-Similarity](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d94e5903f7936d3c131e040ef2c51b473dd071d)
 
 ![Cosine Based-Similarity](https://www.oreilly.com/library/view/statistics-for-machine/9781788295758/assets/2b4a7a82-ad4c-4b2a-b808-e423a334de6f.png)
